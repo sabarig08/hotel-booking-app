@@ -1,0 +1,39 @@
+h2{
+    color: rgb(190, 31, 13);
+    margin: 101px 553px 35px 511px;
+    text-decoration: underline;
+}
+form{
+    margin: 31px 567px 150px 532px;
+
+}
+button{
+    color: blue;
+    border-color: gold;
+    margin: 22px 19px -12px;
+}
+button:hover{
+    background-color: rgb(237, 30, 137);
+}
+td input:hover{
+    background-color: greenyellow;
+}
+td input:focus{
+    background-color: aqua;
+}
+option:hover{
+    background-color: chartreuse;
+}
+
+ @media only screen and (min-width:700px) {
+    {
+           color: yellow;;
+            
+
+    }
+}
+p{
+    column-count: 3;
+    column-gap: 6px;
+    column-rule-style: 2px red solid;
+}

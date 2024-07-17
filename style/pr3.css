@@ -1,0 +1,39 @@
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 60px;
+}
+div{
+    display: inline;
+}
+img{
+    width: 10%;
+    height: 10%;
+}
+nav{
+    background-color: aqua;
+    size: 40px;
+}
+h2{
+    text-align: center;
+}
+p{
+    margin-right: 700px;
+    font-size: 30px;
+}
+form{
+    margin-left: 500px;
+    padding: 20px;
+    font-size: 20px;
+    color: rgb(165, 244, 56);
+   
+}
+body{
+    background-color: rgb(165, 7, 7);
+}
+button:hover{
+    background-color: chartreuse;
+}
+.h2{
+    background-color: aqua;
+}

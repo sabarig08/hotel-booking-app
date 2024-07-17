@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    margin: 20px;
+    padding:20px;
+}
+body{
+    background-color: aquamarine;
+}
+marquee{
+    color: firebrick;
+    margin: 40px;
+}
+.rk1{
+    color: red;
+}
+.rk2{
+    color: darkgreen;
+}
+.rk3{
+    color: darkred;
+}
